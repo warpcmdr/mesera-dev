@@ -1,4 +1,4 @@
-#Mesera Dev
+# Mesera Dev
 
 - [Technical Project Plan](Technical-Project-Plan.md)
 - [Foundations](Phase-0-Foundations.md)
